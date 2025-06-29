@@ -3,7 +3,7 @@
 <html>
 <body>
       <h1>Angelique's Art Showcase</h1>
-      <a href="url">About Me</a>
+      <a href="README.md">About Me</a>
       <a href="artpage.md">My Art</a>
   
 <h2>About Me</h2>
