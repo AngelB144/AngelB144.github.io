@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
    <head>
@@ -14,6 +15,8 @@
       <p>Ever since I was young, I have had a passion for art. I would always doodle something in the sketchbooks my parents
          would give me, whether it was characters from TV shows or movies I watched growing up, or the silly little characters
          I would make up in my head. Now, I find myself doing digital art and creating my original characters!</p>
+
+         <img 
 
          body {
    font-family: 'Courier New';
