@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html> 
 <body>
       <h1>Angelique's Art Showcase</h1>
