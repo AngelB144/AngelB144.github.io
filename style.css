@@ -1,6 +1,6 @@
 body {
   background-color: rgb(76,42,101);
-  background-image: linear-gradient(rgb(38,26,60), rgb(76,42,101));
+  background-image: linear-gradient(180deg, rgb(38,26,60), rgb(76,42,101));
 }
 
 h1 { color: rgb(87,255,90); 
