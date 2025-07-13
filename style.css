@@ -1,7 +1,5 @@
 body {
   background-color: rgb(76,42,101);
-}
-#grad {
   background-image: linear-gradient(rgb(38,26,60), rgb(76,42,101));
 }
 
