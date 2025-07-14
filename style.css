@@ -24,6 +24,7 @@ p { color: rgb(188,169,174);
 img {
   border-radius: 8px;
   filter: drop-shadow(8px 8px 10px black);
+  border-bottom: solid;
 }
 
 li {
@@ -45,6 +46,7 @@ a {
   margin-right: 150px;
   margin-left: 80px;
   background-color: rgb(76,42,101);
+  border-bottom: solid;
 }
 
 a:link {
