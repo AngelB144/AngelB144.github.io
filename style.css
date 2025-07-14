@@ -22,7 +22,7 @@ p { color: rgb(188,169,174);
   }
 
 img {
-  border-radius: 50%;
+  border-radius: 8px;
   filter: drop-shadow(8px 8px 10px black);
 }
 
@@ -36,6 +36,15 @@ a { text-align: center;
   border-color: white;
   border-radius: 12px;
   padding: 5px;
+}
+  
+a {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
 }
 
 a:link {
