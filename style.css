@@ -1,6 +1,6 @@
 body {
   background-color: rgb(76,42,101);
-  background-image: linear-gradient(180deg, rgb(38,26,60), rgb(76,42,101));
+  background-image: linear-gradient(180deg, rgb(23,21,41), rgb(76,42,101));
 }
 
 h1 { color: rgb(188,169,174); 
@@ -39,12 +39,12 @@ a { text-align: center;
 }
   
 a {
-  border: 1px solid black;
+  border: 1px so;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
-  background-color: lightblue;
+  background-color: rgb(76,42,101);
 }
 
 a:link {
