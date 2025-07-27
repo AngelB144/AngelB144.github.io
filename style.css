@@ -12,11 +12,13 @@ body {
 
 h1 { color: rgb(220,209,213); 
     text-align: center;
+    text-shadow: 2px 2px 5px black;
     font-family: "Lacquer";
 }
 
 h2 { color: rgb(220,209,213);
     text-align: center;
+    text-shadow: 2px 2px 5px black;
     font-family: "Lacquer";
 }
 
