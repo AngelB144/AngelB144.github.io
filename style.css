@@ -1,6 +1,6 @@
 body {
   background-color: rgb(76,42,101);
-  background-image: url('purple background graphic.jpg');
+  background-image: url('fade graphic.jpg');
   background-size: cover;
   background-blend-mode: overlay;
 }
