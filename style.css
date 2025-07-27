@@ -1,8 +1,8 @@
 body {
   background-color: rgb(76,42,101);
-  background-image: url('fade graphic.jpg');
+  background-image: url('star background.jpg');
   background-size: cover;
-  background-blend-mode: lighten;
+  background-blend-mode: soft-light;
 }
 
 h1 { color: rgb(188,169,174); 
