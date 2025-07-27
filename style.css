@@ -64,3 +64,9 @@ li a {
 
 .active {
   background-color: #04AA6D;
+
+  ul.mobile-list li {
+    /* Adjust font size of list items */
+    font-size: 46px; 
+    /* Adjust padding for list items */
+    padding: 8px 0; 
