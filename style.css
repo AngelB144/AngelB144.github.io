@@ -2,7 +2,7 @@ body {
   background-color: rgb(76,42,101);
   background-image: url('fade graphic.jpg');
   background-size: cover;
-  background-blend-mode: overlay;
+  background-blend-mode: lighten;
 }
 
 h1 { color: rgb(188,169,174); 
