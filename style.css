@@ -1,8 +1,8 @@
 body {
   background-color: rgb(76,42,101);
-  background-image: url('ed24fc3395ba0504c448727f1a9e273e.jpg');
-  background-size: cover; 
-  opacity: 0.3;
+  background-image: url('purple background graphic.jpg');
+  background-size: cover;
+  background-blend-mode: overlay;
 }
 
 h1 { color: rgb(188,169,174); 
