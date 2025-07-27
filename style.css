@@ -64,8 +64,17 @@ li a {
 
 .active {
   background-color: #04AA6D;
+}
 
- ul.mobile-list li {
+@media only screen and (max-width: 767px) {
+  ul.mobile-list {
+    /* Adjust width of the list container */
+    width: 90%; 
+    margin: 0 auto; /* Center the list */
+    padding: 10px;
+  }
+
+  ul.mobile-list li {
     font-size: 46px; 
     padding: 8px 0; 
   }
